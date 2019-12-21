@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "goal": "chmod +x ./gradlew --no-daemon run"
+    "goal": "git update-index --chmod=+x gradlew --no-daemon run"
   }
 }
