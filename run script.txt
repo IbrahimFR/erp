@@ -1,0 +1,6 @@
+build
+gradlew -x test build
+for InteliJi
+gradlew generateCode copyWebapp
+
+gradlew --no-daemon run
