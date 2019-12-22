@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "goal": "gradlew.bat --no-daemon run"
+    "goal": "chmod +x gradlew && ./gradlew --no-daemon run"
   }
 }
