@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "goal": "../gradlew run"
+    "goal": "gradlew run"
   }
 }
