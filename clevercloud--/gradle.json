@@ -1,5 +1,0 @@
-{
-  "deploy": {
-    "goal": "gradlew.bat run"
-  }
-}
