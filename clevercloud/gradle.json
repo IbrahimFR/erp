@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "goal": "../gradlew.bat run"
+    "goal": "../gradlew run"
   }
 }
