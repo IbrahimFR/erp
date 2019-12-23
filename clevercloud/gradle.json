@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "goal": "chmod + x gradlew run"
+    "goal": "chmod + x gradlew run "
   }
 }
