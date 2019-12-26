@@ -79,3 +79,6 @@ task archiveReports(type: Zip) {
 }
 
 build.finalizedBy archiveReports
+
+task stage(dependsOn: ['build', 'clean'])
+build.mustRunAfter clean
